@@ -1,0 +1,8 @@
+INFO:2022-07-17 17:06:06,455:root:Connected to MySQL Server version: 8.0.29
+INFO:2022-07-17 17:06:06,457:root:You're connected to database: ineuron
+INFO:2022-07-17 17:06:06,589:root:Records inserted successfully in table 'bank_details': 14607
+INFO:2022-07-17 17:06:06,589:root:MySQL connection is closed
+2022-07-17 17:09:28,120 root                           INFO     Connected to MySQL Server version: 8.0.29
+2022-07-17 17:09:28,122 root                           INFO     You're connected to database: ineuron
+2022-07-17 17:09:28,249 root                           INFO     Records inserted successfully in table 'bank_details': 14607
+2022-07-17 17:09:28,250 root                           INFO     MySQL connection is closed

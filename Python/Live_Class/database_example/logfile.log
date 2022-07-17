@@ -1,0 +1,28 @@
+INFO:2022-07-17 16:57:38,521:root:Connected to MySQL Server version: 8.0.29
+INFO:2022-07-17 16:57:38,523:root:You're connected to database: ('ineuron',)
+INFO:2022-07-17 16:57:38,650:root:Records inserted successfully: [(14607,)]
+INFO:2022-07-17 16:57:38,650:root:MySQL connection is closed
+INFO:2022-07-17 16:59:06,020:root:Connected to MySQL Server version: 8.0.29
+INFO:2022-07-17 16:59:06,022:root:You're connected to database: ('ineuron',)
+INFO:2022-07-17 16:59:06,149:root:Records inserted successfully in table 'bank_details': [(14607,)]
+INFO:2022-07-17 16:59:06,149:root:MySQL connection is closed
+INFO:2022-07-17 16:59:26,637:root:Connected to MySQL Server version: 8.0.29
+INFO:2022-07-17 16:59:26,639:root:You're connected to database: ('ineuron',)
+INFO:2022-07-17 16:59:26,763:root:Records inserted successfully in table 'bank_details': 14607
+INFO:2022-07-17 16:59:26,763:root:MySQL connection is closed
+INFO:2022-07-17 16:59:41,057:root:Connected to MySQL Server version: 8.0.29
+INFO:2022-07-17 16:59:41,058:root:You're connected to database: ineuron
+INFO:2022-07-17 16:59:41,198:root:Records inserted successfully in table 'bank_details': 14607
+INFO:2022-07-17 16:59:41,198:root:MySQL connection is closed
+INFO:2022-07-17 17:12:54,715:root:Connected to MySQL Server version: 8.0.29
+INFO:2022-07-17 17:12:54,717:root:You're connected to database: ineuron
+INFO:2022-07-17 17:12:54,831:root:Records inserted successfully in table 'bank_details': 14607
+INFO:2022-07-17 17:12:54,831:root:MySQL connection is closed
+INFO:2022-07-17 17:15:13,658:root:Connected to MySQL Server version: 8.0.29
+INFO:2022-07-17 17:15:13,659:root:You're connected to database: ineuron
+INFO:2022-07-17 17:15:13,772:root:Records inserted successfully in table 'bank_details': 14607
+INFO:2022-07-17 17:15:13,772:root:MySQL connection is closed
+INFO:2022-07-17 17:22:34,912:root:Connected to MySQL Server version: 8.0.29
+INFO:2022-07-17 17:22:34,914:root:You're connected to database: ineuron
+INFO:2022-07-17 17:22:35,033:root:Records inserted successfully in table 'bank_details': 14607
+INFO:2022-07-17 17:22:35,034:root:MySQL connection is closed
