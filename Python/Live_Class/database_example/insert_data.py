@@ -24,11 +24,11 @@ try:
         cols = "`,`".join([str(i) for i in data.columns.tolist()])
 
         # Insert DataFrame records one by one.
-        # for i, row in data.iterrows():
-        #     sql = "INSERT INTO `bank_details` (`" + cols + "`) VALUES (" + "%s," * (len(row) - 1) + "%s)"
-        #     cursor.execute(sql, tuple(row))
-        #     # the connection is not autocommit by default, so we must commit to save our # changes
-        #     connection.commit()
+        for i, row in data.iterrows():
+            sql = "INSERT INTO `bank_details` (`" + cols + "`) VALUES (" + "%s," * (len(row) - 1) + "%s)"
+            cursor.execute(sql, tuple(row))
+            # the connection is not autocommit by default, so we must commit to save our # changes
+            connection.commit()
 
         sql = "select count(*) from bank_details"
         cursor.execute(sql)
